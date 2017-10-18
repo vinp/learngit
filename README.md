@@ -1,0 +1,4 @@
+# Syntax
+
+    tail [options]... [file]...
+    
