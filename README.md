@@ -9,3 +9,6 @@ Output the last part of files, print the last part (10 lines by default) of each
 
   `-f, --follow[={name|descriptor}]`
     Output appended data as the file grows; -f, --follow, and --follow=descriptor are equivalent
+
+  `-n, --lines=K`
+    Output the last K lines, instead of the last 10; or use -n +K to output lines starting with the Kth
